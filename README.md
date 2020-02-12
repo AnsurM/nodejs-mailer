@@ -23,8 +23,9 @@ Step 3: After navigating to the directory, type `npm install` to install all req
 Step 4: After installation finishes, open this repository in your favourite editor to setup environement file:
 
 i) Setup environment variables:
-a) -> If you have Visual Studio Code (https://code.visualstudio.com/) installed, type in your terminal `code .` to open this folder in VS Code.
-b) -> Otherwise, open this folder in your favourite editor.
+
+    -> If you have Visual Studio Code (https://code.visualstudio.com/) installed, type in your terminal `code .` to open this folder in VS Code.
+    -> Otherwise, open this folder in your favourite editor.
 
 ii) Create a new file called `.env` and set values in it for mailtrap as shown in `.env.example` file.
 
