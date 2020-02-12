@@ -24,7 +24,8 @@ Step 4: After installation finishes, open this repository in your favourite edit
 
 i) Setup environment variables:
 
-    -> If you have Visual Studio Code (https://code.visualstudio.com/) installed, type in your terminal `code .` to open this folder in VS Code.
+    -> If you have Visual Studio Code (https://code.visualstudio.com/) installed,
+       type in your terminal `code .` to open this folder in VS Code.
     -> Otherwise, open this folder in your favourite editor.
 
 ii) Create a new file called `.env` and set values in it for mailtrap as shown in `.env.example` file.
