@@ -36,7 +36,7 @@ Step 5: Type `npm start` in your terminal and go to your mailtrap inbox in brows
 
 #### Suggestions, Issues and Queries
 
-For any Suggestions, Issues and Queries, feel free to reach me via email at "ansurmehdi@gmail.com"
+For any Suggestions, Issues and Queries, feel free to reach me via `email at "ansurmehdi@gmail.com"`
 with your issue and steps on how I can replicate the issue.
 
 #### Hope this helps you understand nodemailer.
